@@ -33,9 +33,6 @@ As the project evolved, a keyboard feature was added, making it more user-friend
 - Feedback system to help you make educated guesses.
 - Fun and challenging word-puzzle experience.
 
-## Demo
-
-You can play a live demo of the Wordle game here [insert link to your live demo, if available].
 
 ## How to Use
 
